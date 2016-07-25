@@ -1,3 +1,5 @@
+# boilerplate dotnet app (fsharp) for unit tests
+
 ### setup
 Build to restore nuget packages
 
